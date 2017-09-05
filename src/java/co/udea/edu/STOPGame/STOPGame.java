@@ -19,7 +19,6 @@ import javax.websocket.server.ServerEndpoint;
  *Esta clase será la encargada del websocket endpoint, como dato adicional para que este
  * funcione adecuadamente se deberan implementar las funciones onMessage, onOpen y onClose
  * Se ha nombrado a nuestro endpoint como /STOPGameendpoint
- * @author Julian Vasquez
  */
 @ServerEndpoint("/STOPGameendpoint")
 public class STOPGame {
