@@ -26,8 +26,7 @@ and open the template in the editor.
             overflow: hidden;
             font-family: arial, sans-serif;
             background-image: url("stop.png");
-            background-repeat: no-repeat;
-            background-position: center;
+            background-repeat: repeat;
             }
             img{
                 opacity: 0.5;
